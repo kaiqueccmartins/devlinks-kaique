@@ -48,11 +48,7 @@ body * {
 }
 
 #profile img {
-    w width: 112px;
-    height: auto;
-    display: block;
-    margin: 0 auto;
-    border-radius: 50%;
+    width: 112px;
 }
 
 #profile p {
@@ -173,7 +169,7 @@ footer {
         --bg-url: url(./assets/bg-desktop.jpg);
     }
     .light {
-        --bg-url: url(./assets/bg-desktop-light);
+        --bg-url: url(./assets/bg-desktop-light.jpg);
     }
 }
 @keyframes slide-in {
